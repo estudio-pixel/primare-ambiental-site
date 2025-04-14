@@ -1,2 +1,2 @@
 #!/bin/bash
-zip -r primary.zip . -x primary.zip
+zip -r primare.zip ./index.html ./public -x primare.zip
